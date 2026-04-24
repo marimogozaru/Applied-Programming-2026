@@ -208,21 +208,6 @@ Here are the IDEs that we previously worked with and thus know how to fix most p
 
 ---
 
-## Important Note on AI Tools
-
-> [!WARNING]
-> As you are learning to program, **DO NOT** use AI tools like ChatGPT or GitHub Copilot for generating code in this course.
->
-> At this stage in your learning journey, you need to:
->
-> * Understand the logic behind each line of code you write
-> * Experience the problem-solving process
-> * Learn from your mistakes
-> * Develop debugging skills
->
-> **What is allowed**: Basic autocompletion features that your IDE provides.
->
-> **What is not allowed**: Asking AI to write code solutions for your assignments.
 
 > [!CAUTION]
 > Be wary of "vibe coding" - where AI tools generate complete code based on vague requirements. For effective learning, YOU should provide the programming approach and logic.
